@@ -3,14 +3,36 @@ body{
 }
 hr{
   border-style:dotted none none;
-  border-color:grey;
+  border-color:silver;
   border-width: 5px;
   width:5%;
   height: 0
 }
 h1{
   color: #A45D5D;
+  padding-left: 20px;
+
 }
 h3{
   color:#363062;
+}
+img{
+  width: 200px;
+}
+p{
+  padding-left: 20px;
+}
+a:hover{
+  color: #E78E
+}
+.ink{
+  float: left;
+  padding-left: 8.8rem;
+  width: 40rem;
+}
+.idane{
+  height: 4rem;
+}
+.ji{
+  visibility: hidden;
 }
