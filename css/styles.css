@@ -39,3 +39,6 @@ a:hover{
 a{
   color: #A2416B;
 }
+td{
+  border:1px solid;
+}
